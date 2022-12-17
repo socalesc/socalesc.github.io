@@ -2,21 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://socalesc.github.io/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/posts/attention/</loc>
+    <loc>https://socalesc.github.io/posts/2022-12-17-attention/attention/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://socalesc.github.io/categories/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://socalesc.github.io/categories/deep-learning/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://socalesc.github.io/tags/dl/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://socalesc.github.io/tags/nlp/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://socalesc.github.io/posts/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
+  </url><url>
+    <loc>https://socalesc.github.io/tags/py/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
+  </url><url>
+    <loc>https://socalesc.github.io/tags/</loc>
+    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
+  </url><url>
+    <loc>https://socalesc.github.io/archives/</loc>
+  </url><url>
+    <loc>https://socalesc.github.io/search/</loc>
   </url>
 </urlset>
