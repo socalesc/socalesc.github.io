@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nlp on Àlog</title>
+    <link>https://socalesc.github.io/tags/nlp/</link>
+    <description>Recent content in nlp on Àlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://socalesc.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention and Context based Embeddings</title>
+      <link>https://socalesc.github.io/posts/2022-12-17-attention/attention/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://socalesc.github.io/posts/2022-12-17-attention/attention/</guid>
+      <description>Introduction What is it? How does it work?
+Types of attention Luong and Bahdam
+Comparison Conclusion Citation References </description>
+    </item>
+    
+  </channel>
+</rss>
